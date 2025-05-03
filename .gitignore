@@ -1,0 +1,29 @@
+# ----------- Python Bitcode and Cache -------------
+# Bytecode cache
+__pycache__/
+# Compiled Python files
+*.py[cod]
+# C extensions
+*.so
+# Cython debug symbols
+cython_debug/
+# ----------------- Python Environment -------------
+# Virtual environment directories
+venv/
+env/
+# Python egg cache
+*.egg-info/
+# Python egg metadata
+*.egg
+# Distribution / packaging
+*.whl
+# PyInstaller
+#  Note: PyInstaller builds a lot of files up to the dist folder, but as a general rule, it is best to ignore everything in the build folder.
+#  Note: The build folder is created by PyInstaller and contains temporary files used during the build process.
+#  Note: The dist folder is created by PyInstaller and contains the final executable files. It is usually safe to ignore this folder as well.
+#  Note: The .spec file is created by PyInstaller and contains the build configuration. It is usually safe to ignore this file as well.
+#  Note: The .pyz file is created by PyInstaller and contains the compressed Python code. It is usually safe to ignore this file as well.
+#  Note: The .exe file is created by PyInstaller and contains the final executable file. It is usually safe to ignore this file as well.
+
+# ------------------ Carpetas ---------------
+/reports/figures/
